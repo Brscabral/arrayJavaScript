@@ -10,3 +10,5 @@ console.log(media);
 //queremos calcular a média de um aluno usando o método foreach
 //método foreach é um método que interpreta automaticamente cada indice da array
 //diferente do for, que precisa de um indice, uma condição e uma incremento
+//vc só precisa botar uma função dentro do parametro 
+//usamos o tipo function arrow, mas poderiamos usar uma função call-back sem problemas.
